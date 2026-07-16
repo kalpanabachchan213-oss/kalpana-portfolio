@@ -23,16 +23,16 @@ nav a {
   margin: 0 10px;
   font-size: 16px;
 }
-
-/* Profile Photo */
 .profile-photo {
-  width: 200px;
-  height: 200px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   object-fit: cover;
+  object-position: center;
   display: block;
-  margin: 30px auto;
+  margin: 20px auto;
 }
+
 
 /* Sections */
 section {
