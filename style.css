@@ -163,6 +163,14 @@ nav ul li{
 
 section{
     padding:50px 20px;
+    .profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  display: block;
+  margin: 20px auto;
+  object-fit: cover;
+    }
 }
 
 }
