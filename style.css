@@ -159,7 +159,11 @@ strong{
     font-size:32px;#typing{
     color:#FFD700;
     font-size:32px;
-    font-weight:bold;
+    font-weight:bold;section:hover{
+    transform:translateY(-8px);
+    transition:0.4s;
+    box-shadow:0 0 25px cyan;
+    }
     }
   }
 }
