@@ -153,6 +153,10 @@ p{
 }
 
 strong{
-  color:#ffff66;
+  color:#ffff66;#typing{
+    color:#FFD700;
+    font-weight:bold;
+    font-size:32px;
+  }
 }
 }
