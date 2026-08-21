@@ -193,6 +193,53 @@ strong{
     font-weight: bold;
     background: #ffffff;
     color: #111111;
+  /* ================= CERTIFICATES ================= */
+
+.certificates-section {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.certificates-section h2 {
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.certificate-card {
+    max-width: 700px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 20px;
+    background: white;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.certificate-image {
+    width: 100%;
+    max-width: 650px;
+    border-radius: 12px;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.certificate-card h3 {
+    font-size: 24px;
+    margin: 15px 0 10px;
+}
+
+.certificate-card p {
+    font-size: 16px;
+    margin: 8px 0;
+}
+
+.project-btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 22px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
 }
     }
     }
